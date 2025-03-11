@@ -1,5 +1,10 @@
 # Blockpad-automate
 Tool for auto running Blockpad
+![image](https://github.com/user-attachments/assets/ee9ffed7-88a2-4fe6-a0e9-e0103aed3f86)
+![image](https://github.com/user-attachments/assets/35a64b14-2e56-4f02-b438-84d8a3d55e9a)
+
+
+
 
 ## Tools and components required
 1. Blockpad Account, Register here: [https://testnet.blockpad.fun/register](https://testnet.blockpad.fun/register?ref=GISNLM).
