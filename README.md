@@ -32,7 +32,7 @@ Tool for auto running Blockpad
 - Download file. You can choose the tool run with proxy or no proxy. It's up to you.
 - Password for unzip:
 ```bash
-@christiangrey922
+Join group Telegram to get password: [Telegram](https://t.me/xamdepin)
 ```
 ## Stay Connected
 
